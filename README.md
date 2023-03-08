@@ -7,7 +7,7 @@
 
 - 👨‍💻 Visit my portfolio site : [adarshaneupane.com.np](adarshaneupane.com.np)
 
-- 📫 Twitter Handle : https://twitter.com/NeupaneAd
+- 📫 Twitter Handle : twitter.com/NeupaneAd
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
