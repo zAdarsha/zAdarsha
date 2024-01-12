@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsha Neupane</h1>
-<h3 align="center">An enthusiastic frontend developer from Nepal 🌎</h3>
+<h3 align="center">An enthusiastic developer from Nepal 🌎</h3>
 
 <p align="left"> <a href="https://twitter.com/neupanead" target="blank"><img src="https://img.shields.io/twitter/follow/neupanead?logo=twitter&style=for-the-badge" alt="neupanead" /></a> </p>
 
