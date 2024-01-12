@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/neupanead" target="blank"><img src="https://img.shields.io/twitter/follow/neupanead?logo=twitter&style=for-the-badge" alt="neupanead" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 Visit my portfolio site : [adarshaneupane.com.np](adarshaneupane.com.np)
 
